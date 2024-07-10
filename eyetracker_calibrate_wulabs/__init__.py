@@ -41,7 +41,7 @@ class EyetrackerCalibrationRoutineWULABS(BaseStandaloneRoutine):
             "attempts",
             "attemptBreak",
             "passCriterion",
-            "criteriaValue",
+            "criterionValue",
             "gaze_cursor",
             "show_results_screen",
             "save_results_screen",
